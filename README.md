@@ -6,4 +6,4 @@ Halo
 ## Jadwal
 1. makan
 2. minum
-## Minum
+## Makan
